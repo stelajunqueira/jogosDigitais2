@@ -3,7 +3,7 @@
 - Stela Calixto Junqueira - 23085
 
 # O jogo contém:
-- Cenário (cidade com prédios e carros)
+- Cenário (cidade com prédios e carros);
 - 1 Jogador principal em 3ª pessoa (se movimenta para todas as direções e pula);
 - Vários vilões que ao tocar no jogador principal fazem o jogo reiniciar;
 - Estrelas que fornecem o poder para o jogador capturar os vilões ao encostar neles;
