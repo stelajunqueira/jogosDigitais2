@@ -4,7 +4,7 @@
 - Estrelas que fornecem o poder para o jogador capturar os vilões ao encostar neles;
 - Moedas para serem capturadas pelo jogador;
 - Música tema que é alterada ao encostar na estrela;
-- Sons ao pular e ao capturar moedas.
+- Sons ao pular e ao capturar moedas e vilões.
 
 # link do jogo: https://www.youtube.com/watch?v=KHLV7oSmagg&t
 
