@@ -11,7 +11,7 @@
 - Música tema que é alterada ao encostar na estrela;
 - Sons ao pular e ao capturar moedas e vilões.
 
-# Link do jogo: https://www.youtube.com/watch?v=KHLV7oSmagg&t
+# Link do vídeo do jogo: https://www.youtube.com/watch?v=KHLV7oSmagg&t
 
 # Prints do jogo
 ![image](https://github.com/stelajunqueira/jogosDigitais2/assets/70176000/c26fbfca-8c2c-43cb-9b74-d07e7a4b8be8)
