@@ -1,6 +1,6 @@
 # Alunas:
-Nicoly Malta da Silva Ravagnani - 22776
-Stela Calixto Junqueira - 23085
+- Nicoly Malta da Silva Ravagnani - 22776
+- Stela Calixto Junqueira - 23085
 
 # O jogo contém:
 - Cenário (cidade com prédios e carros)
